@@ -5,7 +5,7 @@ This repo presents the results of an Exploratory Data Analysis (EDA) on the Tita
 
 ## Directory Structure
 The analysis contains 4 directories:
-- [`Titanic_EDA/data `](Data): Contains the Titanic Raw dataset use for the EDA Analysis.
+- [`Titanic_EDA/data`](Data): Contains the Titanic Raw dataset use for the EDA Analysis.
 - [`Titanic_EDA/src`](src): Contains the ipython notebook with the code. 
 - [`Titanic_EDA/result`](result): Contains the summary of the analysis.
 - [`Titanic_EDA/doc`](doc): Additional files that supports the analysis.
